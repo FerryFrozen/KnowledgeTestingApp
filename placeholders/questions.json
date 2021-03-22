@@ -1,0 +1,19 @@
+{
+    "questions": [
+        {
+            "number": "1",
+            "type": "radio",
+            "title": "Как дела?",
+            "answers": [
+                {
+                    "number": "1",
+                    "label": "Это новый кадиллак"
+                },
+                {
+                    "number": "2",
+                    "label": "Норм"
+                }
+            ]
+        }
+    ]
+}
